@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://etuqaapo.github.io/CuR/sitemap_index.txt
+Sitemap: https://etuqaapo.github.io/eSI/sitemap_index.txt
+Sitemap: https://etuqaapo.github.io/kVI/sitemap_index.txt
+Sitemap: https://etuqaapo.github.io/nqt/sitemap_index.txt
